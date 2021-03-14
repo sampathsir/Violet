@@ -88,7 +88,7 @@ buttons = [
 ]
 
 
-burtons += [
+buttons += [
     [
         InlineKeyboardButton(
             text=" Anime Channel ", url="https://t.me/animechanelindo"
@@ -106,7 +106,7 @@ buttons += [
    ]
 ]
 
-burtons+= [
+buttons+= [
     [
         InlineKeyboardButton(
             text=" Support Group ", url="https://t.me/userbotindo"
