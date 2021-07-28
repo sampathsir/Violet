@@ -20,7 +20,7 @@ Join the [Group Support](https://t.me/Violet_support) if you just want to stay i
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Scroxy-X/Violet)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sampathsir/Violet)
 
 ## Credits
 
